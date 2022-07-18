@@ -1,0 +1,10 @@
+# Ignore the csv
+*.csv
+*.cache
+*.pkl
+ipynb_checkpoints/
+
+
+env/
+*.pyc
+__pycache__/
